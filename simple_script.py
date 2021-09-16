@@ -4,3 +4,6 @@ def hello():
 
 def greetings():
 	return hello() + 1
+
+def no():
+	pass
